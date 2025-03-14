@@ -1,2 +1,2 @@
 # ignore .passwd file
-.passwd
+*.passwd
